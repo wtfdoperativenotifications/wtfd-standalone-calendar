@@ -1,0 +1,8 @@
+name = "wtfd-standalone-calendar"
+main = "src/worker.js"
+compatibility_date = "2026-10-01"
+assets = { directory = "./public", binding = "ASSETS", run_worker_first = true }
+[[d1_databases]]
+binding = "DB"
+database_name = "wtfd-standalone-calendar"
+database_id = "639da383-3f24-4353-8420-2da5b9fdab84"
