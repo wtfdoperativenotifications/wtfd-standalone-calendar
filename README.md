@@ -17,3 +17,4 @@ Independent, blank calendar. No connection to Fleet TV or DC Hartley. Six-month 
 5. Open `/calendar` for the public display, `/admin` for editing.
 
 **WARNING:** No password or authentication is enforced on `/admin` or the event-writing API. Anyone on the internet who knows or discovers the address can add, change or delete events. Do not put sensitive information in events.
+Initial Cloudflare deployment.
